@@ -33,6 +33,5 @@ A real-time intelligent climate simulation system that uses **live weather data*
 - `model.pkl` — trained regression model (stored with `joblib`)  
 - `climate_control_log.csv` — log of all predictions and decisions  
 - `visualizer.py` — Streamlit dashboard with temperature trends and actions  
-- `.streamlit/config.toml` — enables dark theme for the dashboard  
 - `docker-compose.yml` — runs Kafka and Zookeeper containers  
 - `requirements.txt` — list of Python dependencies  
